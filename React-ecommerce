@@ -1,0 +1,19 @@
+react-ecommerce
+
+1)npm i express dotenv nodemon
+2) set up express server (.env port app.js etc.)
+3)MongoDB uname- reactcom, pwd - 4SjUOchLzCvCDsYG
+4) npm i mongoose
+5)create routes n controllers
+6)npm i uuid
+7)Create models using mongoose with encrypted password function
+8)npm i body-parser cookie-parser morgan
+9)Create api n test
+10)npm i express-validator
+11)add validators
+12) npm i express-jwt jsonwebtoken
+13)implement jwt auth
+14)implement signup,signin,signout methods
+15)Create category model/route/controllers
+16)npm i formidable loadash
+17)Create Product model/route/controllers (FK, pic datatype etc)
