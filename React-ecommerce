@@ -1,5 +1,6 @@
 react-ecommerce
 
+NODE js apis
 1)npm i express dotenv nodemon
 2) set up express server (.env port app.js etc.)
 3)MongoDB uname- reactcom, pwd - 4SjUOchLzCvCDsYG
@@ -17,3 +18,7 @@ react-ecommerce
 15)Create category model/route/controllers
 16)npm i formidable loadash
 17)Create Product model/route/controllers (FK, pic datatype etc)
+18)Create CRUD apis for Categories/Products
+19)Create Search/sort/list apis for products
+20)Create User profile routes get/update
+21)npm i cors
